@@ -1,6 +1,6 @@
 {
-    "name": "escapestudios/symfony2-coding-standard",
-    "type": "coding-standard",
+    "name": "creolink/code_style",
+    "type": "library",
     "description": "CodeSniffer ruleset for the Symfony2 coding standard",
     "keywords": ["Symfony2", "coding standard", "phpcs"],
     "homepage": "https://github.com/escapestudios/Symfony2-coding-standard",
